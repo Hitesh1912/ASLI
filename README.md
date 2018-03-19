@@ -2,7 +2,7 @@
 American sign language Interpreter using Leap Motion Controller
 
 It empower the speak disabled people to communicate through sign language with the people who doesnt understand sign language.
-The Porject recognises the sign language and outputs it in form text and sound.Such that the person who couldn't understand sign language can communicate with the speak disabled people freely.
+The Project recognises the sign language and outputs it in form text and sound.Such that the person who couldn't understand sign language can communicate with the speak disabled people freely.
 
 Hardware Required:
 Leap Motion Sensor
